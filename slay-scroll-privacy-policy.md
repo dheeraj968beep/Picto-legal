@@ -8,7 +8,7 @@ The App is operated by an individual developer based in India.
 
 Contact for privacy questions and requests:
 
-**Email: dheeraj.8032007@gmail.com**
+**Email: slayscroll73@gmail.com**
 
 If you do not agree with this policy, please do not use the App.
 
@@ -94,7 +94,7 @@ process data only to provide their services to us.
 - **Delete your content** — you can delete your own videos and comments.
 - **Block and report** — you can block any user and report any video or
   comment from inside the App.
-- **Delete your account** — email dheeraj.8032007@gmail.com from the
+- **Delete your account** — email slayscroll73@gmail.com from the
   email address on your account and ask for your account to be deleted.
   We will delete your account, profile, videos, comments, likes, and
   follows. Videos you posted are public, so copies may remain in
@@ -115,7 +115,7 @@ Slay & Scroll is for people aged **13 and over**. We do not knowingly
 collect information from children under 13. Your date of birth is
 collected at sign-up only to enforce the 13+ age check. If you believe
 a child under 13 has created an account, email us at
-dheeraj.8032007@gmail.com and we will delete the account.
+slayscroll73@gmail.com and we will delete the account.
 
 ## 7. Permissions the App asks for
 
@@ -134,4 +134,4 @@ the App after a change means you accept the new policy.
 
 Questions, requests, or complaints about privacy:
 
-**Email: dheeraj.8032007@gmail.com**
+**Email: slayscroll73@gmail.com**
