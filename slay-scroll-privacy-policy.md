@@ -20,7 +20,7 @@ If you do not agree with this policy, please do not use the App.
 - Username
 - Password — stored only as a secure hash, never in plain text
 - Display name
-- Date of birth — used only to check that you are 13 or older (see
+- Date of birth — used only to check that you are 18 or older (see
   section 6). Your date of birth is never shown publicly and is never
   returned by the App's programming interface.
 - Profile photo (optional)
@@ -109,12 +109,12 @@ process data only to provide their services to us.
 - Videos and comments you delete are removed from our servers; public
   copies may persist briefly in caches.
 
-## 6. Children
+## 6. Age — 18 and over
 
-Slay & Scroll is for people aged **13 and over**. We do not knowingly
-collect information from children under 13. Your date of birth is
-collected at sign-up only to enforce the 13+ age check. If you believe
-a child under 13 has created an account, email us at
+Slay & Scroll is for people aged **18 and over**. We do not knowingly
+collect information from children under 18. Your date of birth is
+collected at sign-up only to enforce the 18+ age check. If you believe
+a person under 18 has created an account, email us at
 slayscroll73@gmail.com and we will delete the account.
 
 ## 7. Permissions the App asks for
