@@ -94,11 +94,7 @@ process data only to provide their services to us.
 - **Delete your content** — you can delete your own videos and comments.
 - **Block and report** — you can block any user and report any video or
   comment from inside the App.
-- **Delete your account** — email slayscroll73@gmail.com from the
-  email address on your account and ask for your account to be deleted.
-  We will delete your account, profile, videos, comments, likes, and
-  follows. Videos you posted are public, so copies may remain in
-  caches or on other people's devices for a short time after deletion.
+- **Delete your account** — in the App, go to Settings → Delete account and confirm; or use the web deletion page at https://streamly-backend-aoin.onrender.com/delete-account. You can also email slayscroll73@gmail.com from the email address on your account and ask for your account to be deleted. We will delete your account, profile, videos, comments, likes, and follows. Videos you posted are public, so copies may remain in caches or on other people's devices for a short time after deletion.
 
 ## 5. Data security and retention
 
@@ -135,6 +131,8 @@ the App after a change means you accept the new policy.
 - **Report content that breaks the rules** — report any video or comment from inside the App. A video or comment reported by three different users is hidden automatically until it is reviewed by a person.
 - **Copyright** — if your video or other work was posted on Slay & Scroll without your permission, email the Grievance Officer below with a link to the video and proof that the work is yours. We will remove it promptly once we have checked the complaint.
 - **Grievance Officer** — Dheeraj Kumar Yadav, **slayscroll73@gmail.com**. Complaints about content, copyright, or privacy are acknowledged within 24 hours and resolved within 15 days.
+- **Child safety** — Sexual content involving children is strictly prohibited on Slay & Scroll. We remove such content immediately when we learn of it and report it to the authorities through India's National Cybercrime Reporting Portal (cybercrime.gov.in). Our child-safety point of contact is our Grievance Officer — Dheeraj Kumar Yadav, slayscroll73@gmail.com.
+- **Non-consensual intimate images** — Complaints about non-consensual intimate images, nudity, or morphed images of you are removed within 24 hours of your complaint.
 - Content involving the sexual exploitation of children is removed immediately and reported to the authorities.
 
 ## 10. Contact
