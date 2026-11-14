@@ -82,7 +82,7 @@ Only the service providers needed to run the App:
 | Provider | What they do | Where | What they receive |
 | --- | --- | --- | --- |
 | Supabase | Database and file storage | India (ap-south-1) | Account data, videos, comments, photos |
-| Render | Hosting for the App's backend server | Region not stated | Account data and content the backend handles |
+| Render | Hosting for the App's backend server | USA | Account data and content the backend handles |
 | Google (AdMob) | Advertising, as described in section 1.4 | Global | Advertising ID, IP address, device data |
 
 We do not share your data with any other third party. These providers process data only to provide their services to us.
