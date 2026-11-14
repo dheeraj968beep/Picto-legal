@@ -21,8 +21,8 @@ If you do not agree with this policy, please do not use the App.
 - Password — stored only as a secure hash, never in plain text
 - Display name
 - Date of birth — used only to check that you are 18 or older (see
-section 6). Your date of birth is never shown publicly and is never
-returned by the App's programming interface.
+  section 6). Your date of birth is never shown publicly and is never
+  returned by the App's programming interface.
 - Profile photo (optional)
 - Bio (optional, up to 150 characters)
 - Interests you pick during onboarding (optional)
@@ -30,16 +30,16 @@ returned by the App's programming interface.
 ### 1.2 Content you create
 
 - Videos you upload, and their captions. Videos are stored in cloud
-storage and are public — anyone using the App can watch them.
+  storage and are public — anyone using the App can watch them.
 - Likes, comments and replies, follows, and shares.
 - View counts on your videos.
 
 ### 1.3 Reports and blocks (safety)
 
 - Reports you file about a video or a comment (the reason you pick and
-any note you add) and users you block. We use these to review content
-and keep the App safe. A video or comment reported by three different
-users is hidden automatically until it is reviewed.
+  any note you add) and users you block. We use these to review content
+  and keep the App safe. A video or comment reported by three different
+  users is hidden automatically until it is reviewed.
 
 ### 1.4 Advertising — Google AdMob
 
@@ -48,7 +48,7 @@ feed). To serve ads, Google collects:
 
 - Your Android advertising ID
 - IP address (used for approximate location only — we never collect
-your precise location)
+  your precise location)
 - Device information and app-interaction data
 - Diagnostic data
 
@@ -67,10 +67,10 @@ to this data: https://policies.google.com/privacy
 ## 2. How we use your information
 
 - To run the App: accounts, profiles, feeds, likes, comments, follows,
-search, and notifications.
+  search, and notifications.
 - To show your profile and videos to other users (public by design).
 - To keep the App safe: reviewing reports and removing content that
-breaks the rules.
+  breaks the rules.
 - To show ads, through Google AdMob (see section 1.4).
 
 We do **not** sell your personal data to anyone.
@@ -128,8 +128,8 @@ slayscroll73@gmail.com and we will delete the account.
 
 - **Internet** — to load videos and talk to the App's servers.
 - **Photos and videos** — only the photos and videos you choose to
-upload (profile photo, video posts), picked through the system file
-picker.
+  upload (profile photo, video posts), picked through the system file
+  picker.
 
 ## 8. Changes to this policy
 
