@@ -1,6 +1,6 @@
 # Privacy Policy — Slay & Scroll
 
-**Effective date: 10 November 2026**
+**Effective date: 14 November 2026**
 
 Slay & Scroll ("the App") is a short-video app: you can watch short videos,
 post your own, like and comment, follow creators, and discover new videos.
@@ -130,7 +130,14 @@ If we change this policy, the new version will be posted at this same
 address and the effective date above will be updated. Continued use of
 the App after a change means you accept the new policy.
 
-## 9. Contact
+## 9. Content complaints, copyright and grievance officer
+
+- **Report content that breaks the rules** — report any video or comment from inside the App. A video or comment reported by three different users is hidden automatically until it is reviewed by a person.
+- **Copyright** — if your video or other work was posted on Slay & Scroll without your permission, email the Grievance Officer below with a link to the video and proof that the work is yours. We will remove it promptly once we have checked the complaint.
+- **Grievance Officer** — Dheeraj Kumar Yadav, **slayscroll73@gmail.com**. Complaints about content, copyright, or privacy are acknowledged within 24 hours and resolved within 15 days.
+- Content involving the sexual exploitation of children is removed immediately and reported to the authorities.
+
+## 10. Contact
 
 Questions, requests, or complaints about privacy:
 
